@@ -54,9 +54,9 @@ Me apasiona tanto la ciberseguridad como la programación. Creo firmemente en el
 
 Puedes encontrarme y contactarme a través de las siguientes plataformas:
 
-- [LinkedIn](linkedin.com/in/roberto-rodríguez-carbonell-18636a215)
-- [Correo Electrónico](mailto:98robers@gmail.com)
-- [GitHub](https://github.com/RobertoRodriguezCarbonell)
+- **LinkedIn**: [linkedin.com/in/roberto-rodríguez-carbonell-18636a215](https://linkedin.com/in/roberto-rodríguez-carbonell-18636a215)
+- **Email**: [98robers@gmail.com](mailto:98robers@gmail.com)
+- **GitHub**: [github.com/RobertoRodriguezCarbonell](https://github.com/RobertoRodriguezCarbonell)
 
 ---
 
